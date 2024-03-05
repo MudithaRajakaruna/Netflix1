@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ribbon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ribbon_jar</output-path>
+    <root id="archive" name="ribbon.jar">
+      <element id="module-output" name="ribbon" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spring_security/out/artifacts/spring_security_jar/spring_security.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

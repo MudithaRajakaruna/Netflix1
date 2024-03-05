@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spring_security:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_security_jar</output-path>
+    <root id="archive" name="spring_security.jar">
+      <element id="module-output" name="spring_security" />
+    </root>
+  </artifact>
+</component>
